@@ -79,3 +79,10 @@ Maintenant, passons aux exercices pour pratiquer les boucles en JavaScript.
 
 **EXERCICE #13 - Escalier**
 - Le dessin d'un escalier : Utilise une boucle for pour dessiner un escalier avec des '#' dans la console JS
+
+**BONUS : lenght et indexOf
+- Créez un tableau de couleurs (par exemple, ['rouge', 'vert', 'bleu', 'orange', 'jaune']).
+- Utilisez la propriété length pour afficher le nombre d'éléments dans le tableau.
+- Créez un tableau contenant quelques prénoms (par exemple, ['Alice', 'Bob', 'Charlie', 'David', 'Enzo', 'Lili']).
+- Choisissez un prénom et stockez-le dans une variable.
+- Utilisez indexOf pour trouver et afficher la position du prénom choisi dans le tableau.
