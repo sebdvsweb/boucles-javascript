@@ -38,14 +38,14 @@ Maintenant, passons aux exercices pour pratiquer les boucles en JavaScript.
 **EXERCICE #01 - Compter jusqu'à 5**
 - Utilisez une boucle while pour afficher les nombres de 1 à 5 dans une alert.
 
-**EXERCICE #02 - Compter de 1 à 10**
-- Utilisez une boucle for pour afficher les nombres de 1 à 10 dans la console JS.
+**EXERCICE #02 - Compter de 100 à 150**
+- Utilisez une boucle for pour afficher les nombres de 100 à 150 dans la console JS.
 
 **EXERCICE #03 - Compter de 5 à 1**
 - Utilisez une boucle while pour afficher les nombres de 5 à 1. dans une alert
 
-**EXERCICE #04 - Compter de 0 à 20 par pas de 2**
-- Utilisez une boucle for pour afficher les nombres de 0 à 20 par pas de 2 dans la console JS.
+**EXERCICE #04 - Compter de 0 à 40 par pas de 4**
+- Utilisez une boucle for pour afficher les nombres de 0 à 40 par pas de 4 dans la console JS.
 
 **EXERCICE #05 - Afficher les éléments d'un tableau**
 - Créez un tableau avec quelques éléments (par exemple, des noms) et utilisez la boucle for ... of pour afficher chaque élément.
