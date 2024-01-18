@@ -51,7 +51,7 @@ Maintenant, passons aux exercices pour pratiquer les boucles en JavaScript.
 - Créez un tableau avec quelques éléments (par exemple, des noms) et utilisez la boucle for ... of pour afficher chaque élément.
 
 **EXERCICE #06 - Compteur de lettres**
-- Écris une boucle for qui compte le nombre de 'a' dans la phrase 'La tartine à l'ail et aux anchois était vraiment savoureuse'.
+- Écris une boucle for ... of qui compte (count) le nombre de 'a' dans la phrase 'La tartine à l'ail et aux anchois était vraiment savoureuse'. Utiliser length pour faire parcourir la phrase à votre variable dans la boucle et un if pour lui faire vérifier si la lettre rencontrée est un a''.
 
 **EXERCICE #07 - Afficher les carrés des nombres de 1 à 9**
 - Utilisez une boucle for pour afficher les carrés des nombres de 1 à 9 (1, 4, 9, 16, 25, 36, 49, 64, 81).
