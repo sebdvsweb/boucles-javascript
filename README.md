@@ -54,7 +54,7 @@ Maintenant, passons aux exercices pour pratiquer les boucles en JavaScript.
 - Écris une boucle for qui compte le nombre de 'a' dans la phrase 'La tartine à l'ail et aux anchois était vraiment savoureuse'.
 
 **EXERCICE #07 - Afficher les carrés des nombres de 1 à 9**
-- Utilisez une boucle for pour afficher les carrés des nombres de 1 à 5 (1, 4, 9, 16, 25, 36, 49, 64, 81).
+- Utilisez une boucle for pour afficher les carrés des nombres de 1 à 9 (1, 4, 9, 16, 25, 36, 49, 64, 81).
 
 **EXERCICE #08 - Calculer la somme d'un tableau**
 - Créez un tableau de nombres et utilisez la boucle for ... of pour calculer et afficher la somme des éléments du tableau.
